@@ -1,2 +1,4 @@
 # dark-fb
-apt update &amp;&amp; apt upgrade
+Bicara apt && aptupgrade-y
+Sebuahptinstallpython-y
+pipinstallyagmail
